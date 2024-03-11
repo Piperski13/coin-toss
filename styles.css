@@ -1,0 +1,20 @@
+body{
+  background-color: midnightblue;
+}
+p{
+  text-align: center;
+  color: green;
+}
+.centered{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+button{
+  background-color: #3A46E2;
+  color: midnightblue;
+  border: 2px solid white;
+  padding: 20px;
+  margin: 10px;
+}
